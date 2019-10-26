@@ -1,6 +1,6 @@
 package com.company;
 
-class Solution {
+class SolutionEasy {
     static int[] num = {1, 5, 6, 9, 12};
     static String s = "MCMXCIV";
     static int number = 1000000001;
